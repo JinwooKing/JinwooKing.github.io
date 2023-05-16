@@ -1,13 +1,16 @@
-# JinwooKing.github.io
-git 설치, ruby 설치
+# GitHub Pages
+Jekyll을 사용하여 사이트 만들기
 
-sudo apt install git
-sudo snap install ruby --classic
-sudo apt install ruby-bundler
-sudo apt get-install jekyll
+## Prerequisites
+* git
+	sudo apt install git
+* ruby
+	sudo snap install ruby --classic
+* bundler
+	sudo apt install ruby-bundler
+* jekyll
+	sudo apt install jekyll
 
-git -v
-ruby -v
-bundler -v
+
 
 
